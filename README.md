@@ -1,0 +1,2 @@
+# StockSense
+Inventory Management System
