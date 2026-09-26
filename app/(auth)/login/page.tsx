@@ -32,7 +32,7 @@ function LoginForm() {
       setBusy(false);
       return;
     }
-    const next = params.get("next") || "/";
+    const next = params.get("next") || "/dashboard";
     router.replace(next);
     router.refresh();
   }
