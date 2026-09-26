@@ -23,7 +23,7 @@ Replaces manual registers and scattered spreadsheets with one centralized, live 
 2. Env vars in `.env.local` (already provided):
    ```
    NEXT_PUBLIC_SUPABASE_URL=https://wunbxlgcpydzhrriqitm.supabase.co
-NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_80ERhQ0n-0R2Yx8-F8VUbg_1D-Mqve4
+   NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=sb_publishable_80ERhQ0n-0R2Yx8-F8VUbg_1D-Mqve4
    ```
 3. Run:
    ```bash
